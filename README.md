@@ -7,3 +7,5 @@
 ## 2. Defining a Baseline Model
 ### When you work with machine learning, one important step is to define a baseline model. This usually involves a simple model, which is then used as a comparison with the more advanced models that you want to test. 
 #### First,split the data into a training and testing set which will allow you to evaluate the accuracy and see if your model generalizes well. This means whether the model is able to perform well on data it has not seen before. This is a way to see if the model is overfitting.
+
+## the pull requst : https://github.com/shahd1995913/text-classifier/pull/1
